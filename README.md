@@ -24,3 +24,4 @@ Batch processing (5 PEDs/frame max)
 Automatic distance culling
 Automatic cleanup of distant PEDs
 Optimal use of native resources
+fivem [qbx-core]
